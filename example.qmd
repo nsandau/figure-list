@@ -1,0 +1,11 @@
+---
+title: "Figure-list Example"
+filters:
+  - figure-list
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
